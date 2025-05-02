@@ -6,6 +6,7 @@ import Navigation from './components/Navigation'
 import Hero from './components/Hero'
 function App() {
 
+          // 
           
   return (
    <div>
@@ -14,5 +15,5 @@ function App() {
    </div>
   )
 }
-
+    
 export default App
